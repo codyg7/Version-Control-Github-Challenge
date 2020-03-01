@@ -1,0 +1,5 @@
+1. A terminal is an environment that helps users easily navigate around their computer and processes information through commands. The terminal also helps developers set up their directories and work environments.
+
+2. Git is a distributed version control system that allows users to take snapshots of their progress and call it back later if needed. While GitHub is a centralized version control system that does the samething back allows for more collaboration.
+
+3. We use GitHub to help with version control and to help collaboration between developers instead of constantly sending emails for updated versions.
